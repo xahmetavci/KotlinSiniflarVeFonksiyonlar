@@ -11,7 +11,7 @@ Bu proje içerisinde şu konuları bulabilirsiniz:
 - Kapsam Yapısına Giriş
 
 ## Nasıl Kullanılır
-1. İlgili kod satırlarına ulaşmak için `app/src/main/java/com/ahmetavci/siniflervefonkisyonlar` dosyasına erişebilirsiniz.
+1. İlgili kod satırlarına ulaşmak için `app/src/main/java/com/ahmetavci/siniflervefonkisyonlar` klasörüne erişebilirsiniz.
 2. Projeyi sorunsuz bir şekilde Android Studio ortamınıza klonlayabilirsiniz.
 
 ## İletişim
