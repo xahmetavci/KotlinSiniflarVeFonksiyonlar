@@ -1,5 +1,5 @@
-# Kotlin ile Android Geliştirme: Sınıflar ve Fonksiyonlar 1.0
-📣 Kotlin Temellerini attığım projemin ikinci kısmına hoş geldiniz! Bu projeyi oluştururken Kotlin dilinde sınıf ve fonksiyonların nasıl kullanıldığını anlatmaya çalıştım. Burada, BTK Akademi'nin "Kotlin ile Android Mobil Uygulama Geliştirme Temel Seviye" eğitiminden aldığım notları ve detaylı açıklamalarıyla birlikte bulabilirsiniz. Amacım, Kotlin dilinde sınıflar ve fonksiyonlar konusunu daha iyi anlamanıza ve uygulamaya geçirmenize yardımcı olmak. Keyifli çalışmalar dilerim. 👨‍💻
+# Kotlin ile Android Geliştirme: Sınıflar ve Fonksiyonlar 1.2
+📣 Kotlin Temellerini attığım projemin ikinci kısmına hoş geldiniz! Bu projeyi oluştururken Kotlin dilinde sınıf ve fonksiyonların nasıl kullanıldığını anlatmaya çalıştım. Burada, BTK Akademi'nin "Kotlin ile Android Mobil Uygulama Geliştirme Temel Seviye" eğitiminden aldığım notları ve detaylı açıklamalarıyla birlikte bulabilirsiniz. Amacım, Kotlin dilinde sınıflar ve fonksiyonlar konusunu daha iyi anlamanıza ve uygulamaya geçirmenize yardımcı olmak.
 
 ## Proje İçeriği
 Bu proje içerisinde şu konuları bulabilirsiniz:
@@ -16,6 +16,6 @@ Bu proje içerisinde şu konuları bulabilirsiniz:
 
 ## İletişim
 Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, benimle iletişime geçmekten çekinmeyin. Her türlü soruya açığım ve yardımcı olmaktan mutluluk duyarım.
-İyi Çalışmalar! 😊
+İyi Çalışmalar dilerim. 👨‍💻
 
 linkedin: https://www.linkedin.com/in/avciahmet/
